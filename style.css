@@ -70,3 +70,35 @@ button {
 button:hover {
   border-color: var(--white);
 }
+
+#word-list {
+  width: 100%;
+  max-width: 560px;
+}
+
+#word-list > button {
+  margin-bottom: 24px;
+}
+
+.word-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.word-en {
+  flex: 1;
+  font-size: 1.1rem;
+}
+
+.word-tr {
+  flex: 1;
+  color: var(--gray);
+}
+
+.word-row button {
+  padding: 6px 14px;
+  font-size: 0.85rem;
+}
