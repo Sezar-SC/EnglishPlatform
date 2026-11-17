@@ -1,1 +1,22 @@
-
+[
+  {"id":"a1-001","word":"apple","tr":"elma","example":"I eat an apple every day."},
+  {"id":"a1-002","word":"book","tr":"kitap","example":"This book is very good."},
+  {"id":"a1-003","word":"cat","tr":"kedi","example":"The cat is on the chair."},
+  {"id":"a1-004","word":"dog","tr":"köpek","example":"My dog likes to run."},
+  {"id":"a1-005","word":"house","tr":"ev","example":"We live in a big house."},
+  {"id":"a1-006","word":"water","tr":"su","example":"I drink water in the morning."},
+  {"id":"a1-007","word":"school","tr":"okul","example":"I go to school by bus."},
+  {"id":"a1-008","word":"friend","tr":"arkadaş","example":"She is my best friend."},
+  {"id":"a1-009","word":"mother","tr":"anne","example":"My mother cooks dinner."},
+  {"id":"a1-010","word":"father","tr":"baba","example":"My father works in a bank."},
+  {"id":"a1-011","word":"red","tr":"kırmızı","example":"I like the red car."},
+  {"id":"a1-012","word":"blue","tr":"mavi","example":"The sky is blue."},
+  {"id":"a1-013","word":"happy","tr":"mutlu","example":"I am happy today."},
+  {"id":"a1-014","word":"big","tr":"büyük","example":"This is a big tree."},
+  {"id":"a1-015","word":"small","tr":"küçük","example":"I have a small bag."},
+  {"id":"a1-016","word":"eat","tr":"yemek yemek","example":"We eat lunch at noon."},
+  {"id":"a1-017","word":"drink","tr":"içmek","example":"I drink milk every day."},
+  {"id":"a1-018","word":"run","tr":"koşmak","example":"I run in the park."},
+  {"id":"a1-019","word":"sleep","tr":"uyumak","example":"The baby sleeps at night."},
+  {"id":"a1-020","word":"play","tr":"oynamak","example":"The children play outside."}
+]
